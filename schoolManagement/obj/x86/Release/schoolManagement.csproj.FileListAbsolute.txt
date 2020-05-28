@@ -1,0 +1,8 @@
+D:\Harsh\C #\schoolManagement\schoolManagement\bin\Release\DatabaseLocal.mdf
+D:\Harsh\C #\schoolManagement\schoolManagement\bin\Release\DatabaseLocal_log.ldf
+D:\Harsh\C #\schoolManagement\schoolManagement\bin\Release\schoolManagement.exe.config
+D:\Harsh\C #\schoolManagement\schoolManagement\bin\Release\schoolManagement.exe
+D:\Harsh\C #\schoolManagement\schoolManagement\bin\Release\schoolManagement.pdb
+D:\Harsh\C #\schoolManagement\schoolManagement\obj\x86\Release\schoolManagement.exe
+D:\Harsh\C #\schoolManagement\schoolManagement\obj\x86\Release\schoolManagement.pdb
+D:\Harsh\C #\schoolManagement\schoolManagement\obj\x86\Release\schoolManagement.csprojResolveAssemblyReference.cache
